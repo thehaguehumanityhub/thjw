@@ -1,0 +1,112 @@
+<!-- The Hague Justice Week 2026 — co-hosting organisations. Generated, do not hand-edit the data below. -->
+<div id="thjw-orgs" class="thjw-orgs">
+  <div class="thjw-bar">
+    <label class="thjw-search">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M9 2a7 7 0 105.3 11.6l3.5 3.6 1.4-1.4-3.5-3.6A7 7 0 009 2zm0 2a5 5 0 110 10A5 5 0 019 4z"/></svg>
+      <input type="search" id="thjw-q" placeholder="Search organisations" aria-label="Search organisations" autocomplete="off">
+    </label>
+    <p class="thjw-count" id="thjw-count" aria-live="polite"></p>
+  </div>
+  <div class="thjw-grid" id="thjw-grid"></div>
+  <p class="thjw-empty" id="thjw-empty" hidden>No organisation matches that search.</p>
+</div>
+
+<style>
+#thjw-orgs{--thjw-navy:#17345e;--thjw-mint:#e5efe4;--thjw-line:#dfe4ea;--thjw-muted:#5c6b82;
+  font-family:inherit;color:var(--thjw-navy);margin:0 0 1rem;-webkit-font-smoothing:antialiased}
+#thjw-orgs *,#thjw-orgs *::before,#thjw-orgs *::after{box-sizing:border-box}
+#thjw-orgs .thjw-bar{display:flex;flex-wrap:wrap;gap:.75rem 1.25rem;align-items:center;
+  justify-content:space-between;margin:0 0 1.5rem}
+#thjw-orgs .thjw-search{position:relative;display:flex;align-items:center;flex:1 1 260px;max-width:360px}
+#thjw-orgs .thjw-search svg{position:absolute;left:.85rem;width:18px;height:18px;fill:var(--thjw-muted);pointer-events:none}
+#thjw-orgs .thjw-search input{width:100%;font:inherit;font-size:1rem;color:var(--thjw-navy);
+  padding:.7rem 1rem .7rem 2.6rem;border:1px solid var(--thjw-line);border-radius:999px;background:#fff;
+  outline:none;transition:border-color .15s,box-shadow .15s;-webkit-appearance:none}
+#thjw-orgs .thjw-search input::placeholder{color:var(--thjw-muted);opacity:1}
+#thjw-orgs .thjw-search input:focus{border-color:var(--thjw-navy);box-shadow:0 0 0 3px rgba(23,52,94,.12)}
+#thjw-orgs .thjw-count{margin:0;font-size:.9rem;color:var(--thjw-muted);white-space:nowrap}
+#thjw-orgs .thjw-grid{display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(168px,1fr));
+  grid-auto-rows:1fr}
+#thjw-orgs .thjw-card{display:flex;flex-direction:column;align-items:center;text-align:center;
+  padding:1.1rem .85rem 1rem;background:#fff;border:1px solid var(--thjw-line);border-radius:14px;
+  text-decoration:none;color:inherit;transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease}
+#thjw-orgs a.thjw-card:hover,#thjw-orgs a.thjw-card:focus-visible{transform:translateY(-3px);
+  border-color:var(--thjw-navy);box-shadow:0 8px 22px rgba(23,52,94,.12);outline:none}
+#thjw-orgs .thjw-logo{display:flex;align-items:center;justify-content:center;width:100%;height:76px;margin-bottom:.8rem;border-radius:8px}
+#thjw-orgs .thjw-logo.is-dark{background:var(--thjw-navy);padding:.6rem}
+#thjw-orgs .thjw-logo img{max-width:100%;max-height:100%;object-fit:contain;display:block}
+#thjw-orgs .thjw-mono{display:flex;align-items:center;justify-content:center;width:76px;height:76px;
+  border-radius:50%;background:var(--thjw-mint);color:var(--thjw-navy);font-weight:700;
+  font-size:1.35rem;letter-spacing:.03em}
+#thjw-orgs .thjw-name{font-size:.86rem;line-height:1.35;font-weight:600;margin:0;
+  overflow-wrap:anywhere;hyphens:auto;display:-webkit-box;-webkit-line-clamp:4;
+  -webkit-box-orient:vertical;overflow:hidden}
+#thjw-orgs a.thjw-card .thjw-name{text-decoration:underline;text-decoration-color:transparent;
+  text-underline-offset:2px;transition:text-decoration-color .18s}
+#thjw-orgs a.thjw-card:hover .thjw-name,#thjw-orgs a.thjw-card:focus-visible .thjw-name{text-decoration-color:currentColor}
+#thjw-orgs .thjw-card[hidden],#thjw-orgs [hidden]{display:none!important}
+#thjw-orgs .thjw-empty{margin:1.5rem 0 0;color:var(--thjw-muted)}
+@media (max-width:480px){#thjw-orgs .thjw-grid{grid-template-columns:repeat(auto-fill,minmax(136px,1fr));gap:.75rem}
+  #thjw-orgs .thjw-logo,#thjw-orgs .thjw-mono{height:60px}#thjw-orgs .thjw-mono{width:60px;font-size:1.1rem}}
+@media (prefers-reduced-motion:reduce){#thjw-orgs .thjw-card{transition:none}
+  #thjw-orgs a.thjw-card:hover{transform:none}}
+</style>
+
+<script>
+(function(){
+  var BASE = "https://cdn.jsdelivr.net/gh/thehaguehumanityhub/thjw@main/logos/";
+  var ORGS = [{"n":"ABN AMRO","u":"https://www.abnamro.com/","l":"abn-amro.png","d":0,"i":"ABN"},{"n":"Advisory Committee on Public International Law","u":"https://www.advisorycommitteeinternationallaw.nl/","l":"advisory-committee-on-public-international-law.png","d":0,"i":"ACP"},{"n":"American Bar Association Center for Human Rights","u":"https://www.americanbar.org/groups/human_rights/","l":"american-bar-association-center-for-human-rights.png","d":1,"i":"ABA"},{"n":"Archipel Tax Advice","u":"https://www.archipeltaxadvice.nl/","l":"archipel-tax-advice.png","d":0,"i":"ATA"},{"n":"Asymmetrical Haircuts","u":"https://www.asymmetricalhaircuts.com/","l":"asymmetrical-haircuts.png","d":0,"i":"AH"},{"n":"Baltasar Garzón International Foundation (FIBGAR)","u":"https://fibgar.es/en/","l":"baltasar-garz-n-international-foundation-fibgar.png","d":0,"i":"BGI"},{"n":"Benjamin Dewar","u":"","l":"","d":0,"i":"BD"},{"n":"Carnegie Endowment for International Peace","u":"https://carnegieendowment.org/","l":"carnegie-endowment-for-international-peace.png","d":0,"i":"CEI"},{"n":"Center for International Legal Cooperation","u":"https://www.cilc.nl/","l":"center-for-international-legal-cooperation.png","d":0,"i":"CIL"},{"n":"City Law School – Gender Parity for the ICJ","u":"https://www.city.ac.uk/about/schools/law","l":"the-city-law-school-working-group-on-gender-pari.png","d":1,"i":"ICJ"},{"n":"Columbia Society of International Law","u":"https://www.law.columbia.edu/","l":"columbia-society-of-international-law-in-partner.png","d":0,"i":"CSI"},{"n":"EcoJustice","u":"","l":"","d":0,"i":"EJ"},{"n":"Embassy of the Kingdom of the Netherlands to Colombia","u":"https://www.netherlandsworldwide.nl/countries/colombia","l":"embassy-of-the-kingdom-of-the-netherlands-to-col.png","d":0,"i":"ENC"},{"n":"Embassy of Ukraine in the Kingdom of the Netherlands","u":"https://netherlands.mfa.gov.ua/en","l":"embassy-of-ukraine-in-the-kingdom-of-the-netherl.png","d":0,"i":"EUN"},{"n":"EUAM Trust Through Justice Project","u":"https://www.euam-ukraine.eu/","l":"euam-trust-through-justice-project.png","d":0,"i":"EUAM"},{"n":"European Center for Non-profit Law (ECNL)","u":"https://ecnl.org/","l":"european-center-for-non-profit-law-ecnl.png","d":0,"i":"ECNL"},{"n":"Free A Girl","u":"https://www.freeagirl.nl/","l":"free-a-girl.png","d":1,"i":"FG"},{"n":"Future Generations Tribunal","u":"https://futuregenerationstribunal.org/","l":"future-generations-tribunal.png","d":0,"i":"FGT"},{"n":"Gemeente Den Haag","u":"https://www.denhaag.nl/","l":"gemeente-den-haag.png","d":0,"i":"GDH"},{"n":"Geneva Graduate Institute and the University of St.Gallen","u":"https://www.graduateinstitute.ch/","l":"geneva-graduate-institute-and-the-university-of-.png","d":0,"i":"GGI"},{"n":"The Global Pro Bono Bar Association","u":"https://www.probonobar.org/","l":"the-global-pro-bono-bar-association.png","d":0,"i":"GPB"},{"n":"Grotius Center for International Legal Studies, Leiden Law School","u":"https://www.universiteitleiden.nl/en/law/institute-of-public-law/grotius-centre-for-international-legal-studies","l":"grotius-center-for-international-legal-studies-l.png","d":0,"i":"GCI"},{"n":"Hague Institute for Innovation of Law (HiiL)","u":"https://www.hiil.org/","l":"hague-institute-for-innovation-of-law-hiil.png","d":0,"i":"HII"},{"n":"The Hague University of Applied Sciences","u":"https://www.thuas.com/","l":"the-hague-university-of-applied-sciences.png","d":0,"i":"HUA"},{"n":"Hope Behind Bars Africa","u":"https://hopebehindbarsafrica.org/","l":"hope-behind-bars-africa.png","d":0,"i":"HBB"},{"n":"Human Rights Foundation","u":"https://hrf.org/","l":"human-rights-foundation.png","d":0,"i":"HRF"},{"n":"Integrity Initiatives International Europe","u":"https://integrityinitiatives.org/","l":"integrity-initiatives-international-europe.png","d":1,"i":"III"},{"n":"InterJust","u":"","l":"","d":0,"i":"IJ"},{"n":"International Bar Organisation (IBO)","u":"","l":"","d":0,"i":"IBO"},{"n":"International Center for Transitional Justice (ICTJ)","u":"https://www.ictj.org/","l":"international-center-for-transitional-justice-ic.png","d":0,"i":"ICTJ"},{"n":"International Development Law Organization (IDLO)","u":"https://www.idlo.int/","l":"international-development-law-organization-idlo.png","d":0,"i":"IDLO"},{"n":"International Federation of Library Associations and Institutions","u":"https://www.ifla.org/","l":"","d":0,"i":"IFLA"},{"n":"International IDEA","u":"https://www.idea.int/","l":"international-idea.png","d":0,"i":"IDEA"},{"n":"International Nuremberg Principles Academy","u":"https://www.nurembergacademy.org/","l":"international-nuremberg-principles-academy.png","d":1,"i":"INP"},{"n":"JUDICAP","u":"https://www.judicap.com/","l":"judicap.png","d":1,"i":"Jud"},{"n":"Kosovo Specialist Chambers","u":"https://www.scp-ks.org/en","l":"kosovo-specialist-chambers.png","d":1,"i":"KSC"},{"n":"Kunstmuseum Den Haag","u":"https://www.kunstmuseum.nl/en","l":"kunstmuseum-den-haag.png","d":0,"i":"KDH"},{"n":"Legal Action Worldwide (LAW)","u":"https://www.legalactionworldwide.org/","l":"legal-action-worldwide-law.png","d":0,"i":"LAW"},{"n":"Legitmov","u":"","l":"","d":0,"i":"LM"},{"n":"Ministry of Justice of Cameroon","u":"","l":"","d":0,"i":"MJC"},{"n":"Mukwege Foundation","u":"https://www.mukwegefoundation.org/","l":"mukwege-foundation.png","d":0,"i":"MF"},{"n":"Netherlands Helsinki Committee","u":"https://www.nhc.nl/","l":"netherlands-helsinki-committee.png","d":0,"i":"NHC"},{"n":"Omnijuris Law & Justice Advocates OLJA","u":"https://omnijuris.org/","l":"","d":0,"i":"OLJA"},{"n":"Organisation for the Prohibition of Chemical Weapons (OPCW)","u":"https://www.opcw.org/","l":"organisation-for-the-prohibition-of-chemical-wea.png","d":0,"i":"OPCW"},{"n":"Palestinian Mission to the Kingdom of the Netherlands","u":"","l":"","d":0,"i":"PMN"},{"n":"Pathfinders – NYU CIC","u":"https://www.sdg16.plus/","l":"pathfinders-for-peaceful-just-and-inclusive-soci.png","d":1,"i":"NYU"},{"n":"Pitztop","u":"https://www.humanityhub.net/members/pitztop/","l":"pitztop.png","d":1,"i":"Pit"},{"n":"Pro Bono Connect","u":"https://probonoconnect.nl/","l":"","d":0,"i":"PBC"},{"n":"Save the Children","u":"https://www.savethechildren.net/","l":"save-the-children.png","d":0,"i":"SC"},{"n":"Stichting NowHere","u":"https://nowhere.nl/","l":"stichting-nowhere.png","d":0,"i":"SN"},{"n":"UAnimals","u":"https://uanimals.org/en/","l":"uanimals.png","d":0,"i":"Uan"},{"n":"UCLA's The Promise Institute for Human Rights (Europe)","u":"https://promiseinstitute.law.ucla.edu/","l":"","d":0,"i":"UCLA"},{"n":"UNDP","u":"https://www.undp.org/","l":"","d":0,"i":"UNDP"},{"n":"UNESCO","u":"https://www.unesco.org/","l":"unesco.png","d":0,"i":"Une"},{"n":"University of Southern California (USC)","u":"https://www.usc.edu/","l":"university-of-southern-california-usc.png","d":0,"i":"USC"},{"n":"World Federalist Movement - Institute for Global Policy","u":"https://www.wfm-igp.org/","l":"world-federalist-movement-institute-for-global-p.png","d":0,"i":"WFM"},{"n":"World Liberty Congress","u":"https://worldlibertycongress.org/","l":"world-liberty-congress.png","d":0,"i":"WLC"}];
+  var root = document.getElementById("thjw-orgs");
+  if(!root) return;
+  var grid = root.querySelector("#thjw-grid"),
+      count = root.querySelector("#thjw-count"),
+      empty = root.querySelector("#thjw-empty"),
+      q = root.querySelector("#thjw-q");
+
+  function norm(s){
+    return (s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+  }
+  var nodes = ORGS.map(function(o){
+    var el = document.createElement(o.u ? "a" : "div");
+    el.className = "thjw-card";
+    if(o.u){ el.href = o.u; el.target = "_blank"; el.rel = "noopener noreferrer"; }
+    var box;
+    if(o.l){
+      box = document.createElement("div");
+      box.className = "thjw-logo" + (o.d ? " is-dark" : "");
+      var img = document.createElement("img");
+      img.src = BASE + o.l; img.alt = ""; img.loading = "lazy"; img.decoding = "async";
+      box.appendChild(img);
+    } else {
+      box = document.createElement("div");
+      box.className = "thjw-mono";
+      box.setAttribute("aria-hidden","true");
+      box.textContent = o.i;
+    }
+    var p = document.createElement("p");
+    p.className = "thjw-name";
+    p.textContent = o.n;
+    el.title = o.n;
+    el.appendChild(box); el.appendChild(p);
+    o._s = norm(o.n);
+    o._el = el;
+    return el;
+  });
+  grid.append.apply(grid, nodes);
+
+  function render(){
+    var term = norm(q.value.trim()), shown = 0;
+    ORGS.forEach(function(o){
+      var hit = !term || o._s.indexOf(term) !== -1;
+      o._el.hidden = !hit;
+      if(hit) shown++;
+    });
+    empty.hidden = shown !== 0;
+    count.textContent = term
+      ? shown + " of " + ORGS.length + " organisations"
+      : ORGS.length + " organisations";
+  }
+  q.addEventListener("input", render);
+  render();
+})();
+</script>

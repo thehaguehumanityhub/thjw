@@ -1,0 +1,503 @@
+[
+ {
+  "name": "Advisory Committee on Public International Law",
+  "slug": "advisory-committee-on-public-international-law",
+  "url": "https://www.advisorycommitteeinternationallaw.nl/",
+  "note": "Verified (web search)",
+  "logo": "advisory-committee-on-public-international-law.png",
+  "dark": false,
+  "src": "https://www.adviescommissievolkenrecht.nl/themes/adviescommissievolkenrecht/header-logo.svg"
+ },
+ {
+  "name": "American Bar Association Center for Human Rights",
+  "slug": "american-bar-association-center-for-human-rights",
+  "url": "https://www.americanbar.org/groups/human_rights/",
+  "note": "Verified (web search)",
+  "logo": "american-bar-association-center-for-human-rights.png",
+  "dark": true,
+  "src": "https://www.google.com/s2/favicons?domain=americanbar.org&sz=256"
+ },
+ {
+  "name": "Archipel Tax Advice",
+  "slug": "archipel-tax-advice",
+  "url": "https://www.archipeltaxadvice.nl/",
+  "note": "Verified (web search)",
+  "logo": "archipel-tax-advice.png",
+  "dark": false,
+  "src": "https://www.archipeltaxadvice.nl/wp-content/uploads/2020/12/ata_logo__favicon.png"
+ },
+ {
+  "name": "Asymmetrical Haircuts",
+  "slug": "asymmetrical-haircuts",
+  "url": "https://www.asymmetricalhaircuts.com/",
+  "note": "Verified (web search)",
+  "logo": "asymmetrical-haircuts.png",
+  "dark": false,
+  "src": "https://www.google.com/s2/favicons?domain=asymmetricalhaircuts.com&sz=256"
+ },
+ {
+  "name": "Baltasar Garzón International Foundation -FIBGAR-",
+  "slug": "baltasar-garz-n-international-foundation-fibgar",
+  "url": "https://fibgar.es/en/",
+  "note": "Verified (web search)",
+  "logo": "baltasar-garz-n-international-foundation-fibgar.png",
+  "dark": false,
+  "src": "https://fibgar.es/wp-content/uploads/2020/04/cropped-v_vertical_sin_texto-e1585918866851-180x180.png"
+ },
+ {
+  "name": "Benjamin Dewar",
+  "slug": "benjamin-dewar",
+  "url": null,
+  "note": "Individual, not an organisation - no website",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "Carnegie Endowment for International Peace",
+  "slug": "carnegie-endowment-for-international-peace",
+  "url": "https://carnegieendowment.org/",
+  "note": "Verified (web search)",
+  "logo": "carnegie-endowment-for-international-peace.png",
+  "dark": false,
+  "src": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJtZWRpYS9tZXRhZGVmYXVsdC1Ud2l0dGVyY2FyZC1jZWlwLnBuZyJ9"
+ },
+ {
+  "name": "Center for International Legal Cooperation",
+  "slug": "center-for-international-legal-cooperation",
+  "url": "https://www.cilc.nl/",
+  "note": "Not search-verified - please check",
+  "logo": "center-for-international-legal-cooperation.png",
+  "dark": false,
+  "src": "https://www.google.com/s2/favicons?domain=cilc.nl&sz=256"
+ },
+ {
+  "name": "Columbia Society of International Law, in partnership with the Columbia Journal of Transnational Law.",
+  "slug": "columbia-society-of-international-law-in-partner",
+  "url": "https://www.law.columbia.edu/",
+  "note": "Student society - parent institution used; please check",
+  "logo": "columbia-society-of-international-law-in-partner.png",
+  "dark": false,
+  "src": "https://www.law.columbia.edu/themes/custom/oho/columbia_law/assets/img/logos/Columbia_Law_logo-inline-blue.svg"
+ },
+ {
+  "name": "European Center for Non-profit Law (ECNL)",
+  "slug": "european-center-for-non-profit-law-ecnl",
+  "url": "https://ecnl.org/",
+  "note": "Not search-verified - please check",
+  "logo": "european-center-for-non-profit-law-ecnl.png",
+  "dark": false,
+  "src": "https://ecnl.org/profiles/ecnl/themes/ecnl_theme/logo.svg"
+ },
+ {
+  "name": "ABN AMRO",
+  "slug": "abn-amro",
+  "url": "https://www.abnamro.com/",
+  "note": "Not search-verified - please check",
+  "logo": "abn-amro.png",
+  "dark": false,
+  "src": "https://images.ctfassets.net/1u811bvgvthc/1WdfhFEy0bKMxR8dlZqGNr/b75d47b937b7b48d814d371477904782/Logo-abn.svg"
+ },
+ {
+  "name": "EcoJustice",
+  "slug": "ecojustice",
+  "url": null,
+  "note": "Ambiguous name (several orgs called EcoJustice) - please confirm which",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "Embassy of the Kingdom of the Netherlands to Colombia",
+  "slug": "embassy-of-the-kingdom-of-the-netherlands-to-col",
+  "url": "https://www.netherlandsworldwide.nl/countries/colombia",
+  "note": "Not search-verified - please check",
+  "logo": "embassy-of-the-kingdom-of-the-netherlands-to-col.png",
+  "dark": false,
+  "src": "https://netherlandsworldwide.nl/apple-touch-icon.png"
+ },
+ {
+  "name": "Embassy of Ukraine in the Kingdom of the Netherlands",
+  "slug": "embassy-of-ukraine-in-the-kingdom-of-the-netherl",
+  "url": "https://netherlands.mfa.gov.ua/en",
+  "note": "Not search-verified - please check",
+  "logo": "embassy-of-ukraine-in-the-kingdom-of-the-netherl.png",
+  "dark": false,
+  "src": "https://www.google.com/s2/favicons?domain=mfa.gov.ua&sz=256"
+ },
+ {
+  "name": "EUAM Trust Through Justice Project",
+  "slug": "euam-trust-through-justice-project",
+  "url": "https://www.euam-ukraine.eu/",
+  "note": "Verified (web search) - project sits under EUAM Ukraine",
+  "logo": "euam-trust-through-justice-project.png",
+  "dark": false,
+  "src": "https://www.euam-ukraine.eu/wp-content/themes/euam/favicons/apple-icon-180x180.png"
+ },
+ {
+  "name": "Free A Girl",
+  "slug": "free-a-girl",
+  "url": "https://www.freeagirl.nl/",
+  "note": "Not search-verified - please check",
+  "logo": "free-a-girl.png",
+  "dark": true,
+  "src": "https://cdn.freeagirl.nl/images/free-a-girl-logo-160.png"
+ },
+ {
+  "name": "Future Generations Tribunal",
+  "slug": "future-generations-tribunal",
+  "url": "https://futuregenerationstribunal.org/",
+  "note": "Verified (web search)",
+  "logo": "future-generations-tribunal.png",
+  "dark": false,
+  "src": "https://images.squarespace-cdn.com/content/v1/6727b848c75d49163eef690a/dc68d9c8-de5e-405e-9ad8-17db5210dcb5/favicon.ico?format=100w"
+ },
+ {
+  "name": "Gemeente Den Haag",
+  "slug": "gemeente-den-haag",
+  "url": "https://www.denhaag.nl/",
+  "note": "Not search-verified - please check",
+  "logo": "gemeente-den-haag.png",
+  "dark": false,
+  "src": "https://www.denhaag.nl/wp-content/uploads/2023/01/cropped-DH-favicon-1-180x180.png"
+ },
+ {
+  "name": "Geneva Graduate Institute and the University of St.Gallen",
+  "slug": "geneva-graduate-institute-and-the-university-of-",
+  "url": "https://www.graduateinstitute.ch/",
+  "note": "Two institutions in one row; St.Gallen = unisg.ch",
+  "logo": "geneva-graduate-institute-and-the-university-of-.png",
+  "dark": false,
+  "src": "https://www.graduateinstitute.ch/sites/internet/files/styles/logo_small/public/2023-09/GenevaGraduateInstitute_website_1.png?itok=jWd9EHuV"
+ },
+ {
+  "name": "Grotius Center for International Legal Studies, Leiden Law School",
+  "slug": "grotius-center-for-international-legal-studies-l",
+  "url": "https://www.universiteitleiden.nl/en/law/institute-of-public-law/grotius-centre-for-international-legal-studies",
+  "note": "Not search-verified - please check",
+  "logo": "grotius-center-for-international-legal-studies-l.png",
+  "dark": false,
+  "src": "https://www.google.com/s2/favicons?domain=universiteitleiden.nl&sz=256"
+ },
+ {
+  "name": "Hope Behind Bars Africa",
+  "slug": "hope-behind-bars-africa",
+  "url": "https://hopebehindbarsafrica.org/",
+  "note": "Verified (web search)",
+  "logo": "hope-behind-bars-africa.png",
+  "dark": false,
+  "src": "https://hopebehindbarsafrica.org/wp-content/uploads/2025/09/cropped-2024-16-180x180.png"
+ },
+ {
+  "name": "Hague Institute for Innovation of Law (HiiL)",
+  "slug": "hague-institute-for-innovation-of-law-hiil",
+  "url": "https://www.hiil.org/",
+  "note": "Not search-verified - please check",
+  "logo": "hague-institute-for-innovation-of-law-hiil.png",
+  "dark": false,
+  "src": "https://hiil.org/wp-content/uploads/2025/04/cropped-HiiL_Symbol-color-180x180.png"
+ },
+ {
+  "name": "Human Rights Foundation",
+  "slug": "human-rights-foundation",
+  "url": "https://hrf.org/",
+  "note": "Not search-verified - please check",
+  "logo": "human-rights-foundation.png",
+  "dark": false,
+  "src": "https://hrf.org/wp-content/uploads/2024/08/cropped-Favicon-180x180.png"
+ },
+ {
+  "name": "International Bar Organisation (IBO)",
+  "slug": "international-bar-organisation-ibo",
+  "url": null,
+  "note": "No site found - not the International Bar Association (ibanet.org); please confirm",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "Integrity Initiatives International Europe",
+  "slug": "integrity-initiatives-international-europe",
+  "url": "https://integrityinitiatives.org/",
+  "note": "Verified (web search)",
+  "logo": "integrity-initiatives-international-europe.png",
+  "dark": true,
+  "src": "http://static1.squarespace.com/static/5728d314b6aa60d865f7840e/t/615f17f44703fa09c25a5168/1633622004623/III+logo+white_transp2.png?format=1500w"
+ },
+ {
+  "name": "InterJust",
+  "slug": "interjust",
+  "url": null,
+  "note": "No site found - please confirm full name",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "International Center for Transitional Justice (ICTJ)",
+  "slug": "international-center-for-transitional-justice-ic",
+  "url": "https://www.ictj.org/",
+  "note": "Not search-verified - please check",
+  "logo": "international-center-for-transitional-justice-ic.png",
+  "dark": false,
+  "src": "https://www.ictj.org/themes/custom/ictj/logo.svg"
+ },
+ {
+  "name": "International Development Law Organization (IDLO)",
+  "slug": "international-development-law-organization-idlo",
+  "url": "https://www.idlo.int/",
+  "note": "Not search-verified - please check",
+  "logo": "international-development-law-organization-idlo.png",
+  "dark": false,
+  "src": "https://www.idlo.int/sites/default/files/idlo-logo-blue6.png"
+ },
+ {
+  "name": "International Federation of Library Associations and Institutions",
+  "slug": "international-federation-of-library-associations",
+  "url": "https://www.ifla.org/",
+  "note": "Not search-verified - please check",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "International IDEA",
+  "slug": "international-idea",
+  "url": "https://www.idea.int/",
+  "note": "Not search-verified - please check",
+  "logo": "international-idea.png",
+  "dark": false,
+  "src": "https://www.idea.int/themes/custom/tema/favicon.ico"
+ },
+ {
+  "name": "International Nuremberg Principles Academy",
+  "slug": "international-nuremberg-principles-academy",
+  "url": "https://www.nurembergacademy.org/",
+  "note": "Not search-verified - please check",
+  "logo": "international-nuremberg-principles-academy.png",
+  "dark": true,
+  "src": "https://www.nurembergacademy.org/_assets/6d1df0f0a99359e6e87d21a5a5c20a0d/Images/logo.svg"
+ },
+ {
+  "name": "JUDICAP",
+  "slug": "judicap",
+  "url": "https://www.judicap.com/",
+  "note": "Domain from directory listing - please check",
+  "logo": "judicap.png",
+  "dark": true,
+  "src": "https://clemart.de/wp-content/uploads/logo-def-wit-tekst.png"
+ },
+ {
+  "name": "Kosovo Specialist Chambers",
+  "slug": "kosovo-specialist-chambers",
+  "url": "https://www.scp-ks.org/en",
+  "note": "Not search-verified - please check",
+  "logo": "kosovo-specialist-chambers.png",
+  "dark": true,
+  "src": "https://www.scp-ks.org/themes/custom/ksc_spo/images/favicons/apple-touch-icon.png"
+ },
+ {
+  "name": "Kunstmuseum Den Haag",
+  "slug": "kunstmuseum-den-haag",
+  "url": "https://www.kunstmuseum.nl/en",
+  "note": "Not search-verified - please check",
+  "logo": "kunstmuseum-den-haag.png",
+  "dark": false,
+  "src": "https://www.kunstmuseum.nl/themes/gemeentemuseum_theme/assets//images/kunstmuseum-logo.svg"
+ },
+ {
+  "name": "Legal Action Worldwide (LAW)",
+  "slug": "legal-action-worldwide-law",
+  "url": "https://www.legalactionworldwide.org/",
+  "note": "Not search-verified - please check",
+  "logo": "legal-action-worldwide-law.png",
+  "dark": false,
+  "src": "https://legalactionworldwide.org/wp-content/uploads/LAW_favicon.png"
+ },
+ {
+  "name": "Legitmov",
+  "slug": "legitmov",
+  "url": null,
+  "note": "No site found - please confirm spelling",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "Ministry of Justice of Cameroon",
+  "slug": "ministry-of-justice-of-cameroon",
+  "url": null,
+  "note": "No official site confirmed - please check",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "Mukwege Foundation",
+  "slug": "mukwege-foundation",
+  "url": "https://www.mukwegefoundation.org/",
+  "note": "Not search-verified - please check",
+  "logo": "mukwege-foundation.png",
+  "dark": false,
+  "src": "https://www.mukwegefoundation.org/wp-content/uploads/2024/01/cropped-mukwege-favicon-180x180.png"
+ },
+ {
+  "name": "Netherlands Helsinki Committee",
+  "slug": "netherlands-helsinki-committee",
+  "url": "https://www.nhc.nl/",
+  "note": "Not search-verified - please check",
+  "logo": "netherlands-helsinki-committee.png",
+  "dark": false,
+  "src": "https://www.nhc.nl/assets/uploads/2017/05/cropped-nhc-favicon-192x192.png"
+ },
+ {
+  "name": "Omnijuris Law & Justice Advocates OLJA",
+  "slug": "omnijuris-law-justice-advocates-olja",
+  "url": "https://omnijuris.org/",
+  "note": "Verified (web search)",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "Organisation for the Prohibition of Chemical Weapons (OPCW)",
+  "slug": "organisation-for-the-prohibition-of-chemical-wea",
+  "url": "https://www.opcw.org/",
+  "note": "Not search-verified - please check",
+  "logo": "organisation-for-the-prohibition-of-chemical-wea.png",
+  "dark": false,
+  "src": "https://www.opcw.org/sites/default/files/favicon/apple-touch-icon.png"
+ },
+ {
+  "name": "Palestinian Mission to the Kingdom of the Netherlands",
+  "slug": "palestinian-mission-to-the-kingdom-of-the-nether",
+  "url": null,
+  "note": "No official site confirmed - please check",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "Pathfinders for Peaceful, Just and Inclusive Societies – NYU CIC",
+  "slug": "pathfinders-for-peaceful-just-and-inclusive-soci",
+  "url": "https://www.sdg16.plus/",
+  "note": "Not search-verified - please check (NYU CIC: cic.nyu.edu)",
+  "logo": "pathfinders-for-peaceful-just-and-inclusive-soci.png",
+  "dark": true,
+  "src": "https://s42831.pcdn.co/wp-content/themes/pathfinders/assets/images/wagner-footer-logo.svg"
+ },
+ {
+  "name": "Pitztop",
+  "slug": "pitztop",
+  "url": "https://www.humanityhub.net/members/pitztop/",
+  "note": "No own website found - Hub member page used",
+  "logo": "pitztop.png",
+  "dark": true,
+  "src": "https://www.humanityhub.org/wp-content/uploads/2025/06/Updated-Member-Logos-46-600x600.png"
+ },
+ {
+  "name": "Pro Bono Connect",
+  "slug": "pro-bono-connect",
+  "url": "https://probonoconnect.nl/",
+  "note": "Not search-verified - please check",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "Save the Children",
+  "slug": "save-the-children",
+  "url": "https://www.savethechildren.net/",
+  "note": "Not search-verified - please check",
+  "logo": "save-the-children.png",
+  "dark": false,
+  "src": "https://www.google.com/s2/favicons?domain=savethechildren.net&sz=256"
+ },
+ {
+  "name": "Stichting NowHere",
+  "slug": "stichting-nowhere",
+  "url": "https://nowhere.nl/",
+  "note": "Match uncertain - this is an Amsterdam arts foundation; confirm it is the same body",
+  "logo": "stichting-nowhere.png",
+  "dark": false,
+  "src": "https://nowhere.nl/wp-content/themes/nowhere-site/favicon.ico"
+ },
+ {
+  "name": "The City Law School; Working Group on Gender Parity for the ICJ",
+  "slug": "the-city-law-school-working-group-on-gender-pari",
+  "url": "https://www.city.ac.uk/about/schools/law",
+  "note": "Not search-verified - please check",
+  "logo": "the-city-law-school-working-group-on-gender-pari.png",
+  "dark": true,
+  "src": "https://www.google.com/s2/favicons?domain=city.ac.uk&sz=256"
+ },
+ {
+  "name": "The Global Pro Bono Bar Association",
+  "slug": "the-global-pro-bono-bar-association",
+  "url": "https://www.probonobar.org/",
+  "note": "Verified (web search)",
+  "logo": "the-global-pro-bono-bar-association.png",
+  "dark": false,
+  "src": "https://www.probonobar.org/resources/Pictures/20200101%20Logo/20200104%20GPBBA%20-%20Logo6x6.jpg"
+ },
+ {
+  "name": "The Hague University of Applied Sciences",
+  "slug": "the-hague-university-of-applied-sciences",
+  "url": "https://www.thuas.com/",
+  "note": "Not search-verified - please check",
+  "logo": "the-hague-university-of-applied-sciences.png",
+  "dark": false,
+  "src": "https://www.thuas.com/themes/hhs_theme/static/favicons/apple-touch-icon.png?v=h8CH9ijxVQljHEDFcFyouTaxKptEeT--gaRI8Sijh4IGt2CvdOdiYPDZ6RNmPZVNb8xvAHZapA"
+ },
+ {
+  "name": "UAnimals",
+  "slug": "uanimals",
+  "url": "https://uanimals.org/en/",
+  "note": "Not search-verified - please check",
+  "logo": "uanimals.png",
+  "dark": false,
+  "src": "https://uanimals.org/wp-content/uploads/2026/08/favicon.png"
+ },
+ {
+  "name": "UCLA's The Promise Institute for Human Rights (Europe)",
+  "slug": "ucla-s-the-promise-institute-for-human-rights-eu",
+  "url": "https://promiseinstitute.law.ucla.edu/",
+  "note": "Not search-verified - please check",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "UNDP",
+  "slug": "undp",
+  "url": "https://www.undp.org/",
+  "note": "Not search-verified - please check",
+  "logo": null,
+  "dark": false
+ },
+ {
+  "name": "UNESCO",
+  "slug": "unesco",
+  "url": "https://www.unesco.org/",
+  "note": "Not search-verified - please check",
+  "logo": "unesco.png",
+  "dark": false,
+  "src": "https://www.unesco.org/themes/custom/bunesco8/apple-touch-icon.png"
+ },
+ {
+  "name": "University of Southern California (USC)",
+  "slug": "university-of-southern-california-usc",
+  "url": "https://www.usc.edu/",
+  "note": "Not search-verified - please check",
+  "logo": "university-of-southern-california-usc.png",
+  "dark": false,
+  "src": "https://www.usc.edu/wp-content/themes/usc-communications-2023/favicon/apple-touch-icon.png"
+ },
+ {
+  "name": "World Federalist Movement - Institute for Global Policy",
+  "slug": "world-federalist-movement-institute-for-global-p",
+  "url": "https://www.wfm-igp.org/",
+  "note": "Not search-verified - please check",
+  "logo": "world-federalist-movement-institute-for-global-p.png",
+  "dark": false,
+  "src": "https://wfm-igp.org/wp-content/uploads/cropped-WFM-IGP-site-icon-1-180x180.png"
+ },
+ {
+  "name": "World Liberty Congress",
+  "slug": "world-liberty-congress",
+  "url": "https://worldlibertycongress.org/",
+  "note": "Not search-verified - please check",
+  "logo": "world-liberty-congress.png",
+  "dark": false,
+  "src": "https://worldlibertycongress.org/wp-content/uploads/2023/08/FAVICON_2023-300x300.jpg"
+ }
+]
