@@ -1,0 +1,30 @@
+{
+  "_readme": [
+    "Corrections for the Justice Week organisations widget.",
+    "Key = the organisation's name exactly as it appears in orgs-embed.html.",
+    "Per entry you may set: u = website URL, n = display name, i = initials shown when there is no logo, d = 1 to put a light logo on a navy tile (0 to undo).",
+    "Entries starting with an underscore are ignored. Delete an entry to drop the correction.",
+    "After editing, commit, then open once: https://purge.jsdelivr.net/gh/thehaguehumanityhub/thjw@main/overrides.json"
+  ],
+  "Benjamin Dewar": {
+    "u": ""
+  },
+  "EcoJustice": {
+    "u": ""
+  },
+  "International Bar Organisation (IBO)": {
+    "u": ""
+  },
+  "InterJust": {
+    "u": ""
+  },
+  "Legitmov": {
+    "u": ""
+  },
+  "Ministry of Justice of Cameroon": {
+    "u": ""
+  },
+  "Palestinian Mission to the Kingdom of the Netherlands": {
+    "u": ""
+  }
+}
