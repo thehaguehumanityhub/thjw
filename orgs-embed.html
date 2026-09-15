@@ -92,8 +92,9 @@
     var img = document.createElement("img");
     img.alt = ""; img.loading = "lazy"; img.decoding = "async";
     img.onerror = function(){
+      // Keep the same wrapper, so the gap below it matches a card that has a logo.
       box.textContent = "";
-      box.className = "";
+      box.className = "thjw-logo";
       box.appendChild(mono(o));
     };
     img.src = LOGOS + encodeURIComponent(o.s) + ".png";
