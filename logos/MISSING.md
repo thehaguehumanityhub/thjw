@@ -12,16 +12,10 @@ falls back to an initials tile when the file is not here.
 | Filename | Organisation |
 |---|---|
 | `benjamin-dewar.png` | Benjamin Dewar |
-| `ecojustice.png` | EcoJustice |
 | `international-bar-organisation-ibo.png` | International Bar Organisation (IBO) |
-| `interjust.png` | InterJust |
 | `international-federation-of-library-associations.png` | International Federation of Library Associations and Institutions |
-| `legitmov.png` | Legitmov |
-| `ministry-of-justice-of-cameroon.png` | Ministry of Justice of Cameroon |
 | `omnijuris-law-justice-advocates-olja.png` | Omnijuris Law & Justice Advocates OLJA |
-| `palestinian-mission-to-the-kingdom-of-the-nether.png` | Palestinian Mission to the Kingdom of the Netherlands |
 | `pro-bono-connect.png` | Pro Bono Connect |
 | `ucla-s-the-promise-institute-for-human-rights-eu.png` | UCLA's The Promise Institute for Human Rights (Europe) |
-| `undp.png` | UNDP |
 
 Delete a row once its logo is in place.
