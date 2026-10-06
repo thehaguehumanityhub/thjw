@@ -49,8 +49,9 @@
   "slug": "benjamin-duerr",
   "url": null,
   "note": "Individual, not an organisation - no website",
-  "logo": null,
-  "dark": false
+  "logo": "benjamin-duerr.png",
+  "dark": false,
+  "src": "supplied by Giovanni, 6 Oct 2026"
  },
  {
   "name": "Carnegie Endowment for International Peace",
@@ -365,8 +366,8 @@
   "url": "https://www.sdg16.plus/",
   "note": "Not search-verified - please check (NYU CIC: cic.nyu.edu)",
   "logo": "pathfinders-for-peaceful-just-and-inclusive-soci.png",
-  "dark": true,
-  "src": "https://s42831.pcdn.co/wp-content/themes/pathfinders/assets/images/wagner-footer-logo.svg"
+  "dark": false,
+  "src": "supplied by Giovanni, 6 Oct 2026"
  },
  {
   "name": "Pitztop",

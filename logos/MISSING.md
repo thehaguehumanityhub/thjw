@@ -11,7 +11,6 @@ falls back to an initials tile when the file is not here.
 
 | Filename | Organisation |
 |---|---|
-| `benjamin-duerr.png` | Benjamin Duerr |
 | `international-bar-organisation-ibo.png` | International Bar Organisation (IBO) |
 | `international-federation-of-library-associations.png` | International Federation of Library Associations and Institutions |
 | `omnijuris-law-justice-advocates-olja.png` | Omnijuris Law & Justice Advocates OLJA |
