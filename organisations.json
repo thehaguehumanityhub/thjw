@@ -45,8 +45,8 @@
   "src": "https://fibgar.es/wp-content/uploads/2020/04/cropped-v_vertical_sin_texto-e1585918866851-180x180.png"
  },
  {
-  "name": "Benjamin Dewar",
-  "slug": "benjamin-dewar",
+  "name": "Benjamin Duerr",
+  "slug": "benjamin-duerr",
   "url": null,
   "note": "Individual, not an organisation - no website",
   "logo": null,
@@ -60,15 +60,6 @@
   "logo": "carnegie-endowment-for-international-peace.png",
   "dark": false,
   "src": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJtZWRpYS9tZXRhZGVmYXVsdC1Ud2l0dGVyY2FyZC1jZWlwLnBuZyJ9"
- },
- {
-  "name": "Center for International Legal Cooperation",
-  "slug": "center-for-international-legal-cooperation",
-  "url": "https://www.cilc.nl/",
-  "note": "Not search-verified - please check",
-  "logo": "center-for-international-legal-cooperation.png",
-  "dark": false,
-  "src": "https://www.google.com/s2/favicons?domain=cilc.nl&sz=256"
  },
  {
   "name": "Columbia Society of International Law, in partnership with the Columbia Journal of Transnational Law.",
@@ -438,15 +429,6 @@
   "logo": "the-hague-university-of-applied-sciences.png",
   "dark": false,
   "src": "https://www.thuas.com/themes/hhs_theme/static/favicons/apple-touch-icon.png?v=h8CH9ijxVQljHEDFcFyouTaxKptEeT--gaRI8Sijh4IGt2CvdOdiYPDZ6RNmPZVNb8xvAHZapA"
- },
- {
-  "name": "UAnimals",
-  "slug": "uanimals",
-  "url": "https://uanimals.org/en/",
-  "note": "Not search-verified - please check",
-  "logo": "uanimals.png",
-  "dark": false,
-  "src": "https://uanimals.org/wp-content/uploads/2026/08/favicon.png"
  },
  {
   "name": "UCLA's The Promise Institute for Human Rights (Europe)",

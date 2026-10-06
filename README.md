@@ -108,4 +108,4 @@ Still needing a proper logo file from the organiser: UNDP, IFLA, Pro Bono Connec
 UCLA Promise Institute. Eight rows have no website in the source list and render as
 initials tiles: EcoJustice, InterJust, Legitmov, International Bar Organisation,
 Omnijuris, Ministry of Justice of Cameroon, Palestinian Mission to the Netherlands,
-and Benjamin Dewar (an individual, not an organisation).
+and Benjamin Duerr (an individual, not an organisation).
