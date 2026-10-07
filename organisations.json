@@ -361,6 +361,15 @@
   "dark": false
  },
  {
+  "name": "Partos",
+  "slug": "partos",
+  "url": "https://www.partos.nl/",
+  "note": "Verified (site loads, 7 Oct 2026)",
+  "logo": "partos.png",
+  "dark": false,
+  "src": "supplied by Giovanni, 7 Oct 2026"
+ },
+ {
   "name": "Pathfinders for Peaceful, Just and Inclusive Societies – NYU CIC",
   "slug": "pathfinders-for-peaceful-just-and-inclusive-soci",
   "url": "https://www.sdg16.plus/",
