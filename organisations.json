@@ -72,6 +72,15 @@
   "src": "https://www.law.columbia.edu/themes/custom/oho/columbia_law/assets/img/logos/Columbia_Law_logo-inline-blue.svg"
  },
  {
+  "name": "Cordaid",
+  "slug": "cordaid",
+  "url": "https://www.cordaid.org/en/",
+  "note": "Verified (site loads, 8 Oct 2026)",
+  "logo": "cordaid.png",
+  "dark": false,
+  "src": "supplied by Giovanni, 8 Oct 2026"
+ },
+ {
   "name": "European Center for Non-profit Law (ECNL)",
   "slug": "european-center-for-non-profit-law-ecnl",
   "url": "https://ecnl.org/",
