@@ -6,24 +6,13 @@
     "Entries starting with an underscore are ignored. Delete an entry to drop the correction.",
     "After editing, commit, then open once: https://purge.jsdelivr.net/gh/thehaguehumanityhub/thjw@main/overrides.json"
   ],
-  "Benjamin Duerr": {
-    "u": ""
-  },
-  "EcoJustice": {
-    "u": ""
-  },
   "InterJust": {
-    "u": "",
     "d": 1
   },
   "Legitmov": {
-    "u": "",
     "d": 1
   },
   "Ministry of Justice of Cameroon": {
-    "u": ""
-  },
-  "Palestinian Mission to the Kingdom of the Netherlands": {
     "u": ""
   },
   "Gemeente Den Haag": {

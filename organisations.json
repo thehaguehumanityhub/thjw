@@ -47,8 +47,8 @@
  {
   "name": "Benjamin Duerr",
   "slug": "benjamin-duerr",
-  "url": null,
-  "note": "Individual, not an organisation - no website",
+  "url": "https://www.benjamin-duerr.com/en/",
+  "note": "URL from participating organisations sheet, checked 12 Oct 2026",
   "logo": "benjamin-duerr.png",
   "dark": false,
   "src": "supplied by Giovanni, 6 Oct 2026"
@@ -101,8 +101,8 @@
  {
   "name": "EcoJustice",
   "slug": "ecojustice",
-  "url": null,
-  "note": "Ambiguous name (several orgs called EcoJustice) - please confirm which",
+  "url": "https://ecojustice.earth/",
+  "note": "URL from participating organisations sheet, checked 12 Oct 2026",
   "logo": null,
   "dark": false
  },
@@ -217,8 +217,8 @@
  {
   "name": "InterJust",
   "slug": "interjust",
-  "url": null,
-  "note": "No site found - please confirm full name",
+  "url": "https://inter-just.org/",
+  "note": "URL from participating organisations sheet, checked 12 Oct 2026",
   "logo": null,
   "dark": false
  },
@@ -305,8 +305,8 @@
  {
   "name": "Legitmov",
   "slug": "legitmov",
-  "url": null,
-  "note": "No site found - please confirm spelling",
+  "url": "https://legitmov.nl/",
+  "note": "URL from participating organisations sheet, checked 12 Oct 2026",
   "logo": null,
   "dark": false
  },
@@ -337,6 +337,15 @@
   "src": "https://www.nhc.nl/assets/uploads/2017/05/cropped-nhc-favicon-192x192.png"
  },
  {
+  "name": "Nowhere Bookstore Netherlands",
+  "slug": "nowhere-bookstore-netherlands",
+  "url": "https://nowherenl.myshopify.com/",
+  "note": "Replaces Stichting NowHere (wrong match), per sheet 12 Oct 2026",
+  "logo": "nowhere-bookstore-netherlands.png",
+  "dark": false,
+  "src": "https://nowherenl.myshopify.com/cdn/shop/files/Lettering_Black.png"
+ },
+ {
   "name": "Omnijuris Law & Justice Advocates OLJA",
   "slug": "omnijuris-law-justice-advocates-olja",
   "url": "https://omnijuris.org/",
@@ -356,8 +365,8 @@
  {
   "name": "Palestinian Mission to the Kingdom of the Netherlands",
   "slug": "palestinian-mission-to-the-kingdom-of-the-nether",
-  "url": null,
-  "note": "No official site confirmed - please check",
+  "url": "https://www.facebook.com/palestijnsemissienederland/",
+  "note": "URL from participating organisations sheet, checked 12 Oct 2026",
   "logo": null,
   "dark": false
  },
@@ -404,15 +413,6 @@
   "logo": "save-the-children.png",
   "dark": false,
   "src": "https://www.google.com/s2/favicons?domain=savethechildren.net&sz=256"
- },
- {
-  "name": "Stichting NowHere",
-  "slug": "stichting-nowhere",
-  "url": "https://nowhere.nl/",
-  "note": "Match uncertain - this is an Amsterdam arts foundation; confirm it is the same body",
-  "logo": "stichting-nowhere.png",
-  "dark": false,
-  "src": "https://nowhere.nl/wp-content/themes/nowhere-site/favicon.ico"
  },
  {
   "name": "The City Law School; Working Group on Gender Parity for the ICJ",
