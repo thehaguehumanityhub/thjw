@@ -11,8 +11,5 @@ falls back to an initials tile when the file is not here.
 
 | Filename | Organisation |
 |---|---|
-| `omnijuris-law-justice-advocates-olja.png` | Omnijuris Law & Justice Advocates OLJA |
-| `pro-bono-connect.png` | Pro Bono Connect |
-| `ucla-s-the-promise-institute-for-human-rights-eu.png` | UCLA's The Promise Institute for Human Rights (Europe) |
 
 Delete a row once its logo is in place.

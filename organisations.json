@@ -351,8 +351,9 @@
   "slug": "omnijuris-law-justice-advocates-olja",
   "url": "https://omnijuris.org/",
   "note": "Verified (web search)",
-  "logo": null,
-  "dark": false
+  "logo": "omnijuris-law-justice-advocates-olja.png",
+  "dark": true,
+  "src": "inline SVG wordmark on omnijuris.org, rendered and cropped to the lettering, 12 Oct 2026"
  },
  {
   "name": "Organisation for the Prohibition of Chemical Weapons (OPCW)",
@@ -403,8 +404,9 @@
   "slug": "pro-bono-connect",
   "url": "https://probonoconnect.nl/",
   "note": "Not search-verified - please check",
-  "logo": null,
-  "dark": false
+  "logo": "pro-bono-connect.png",
+  "dark": false,
+  "src": "https://probonoconnect.nl/ header logo (elementor thumb a0ac3f93...)"
  },
  {
   "name": "Save the Children",
@@ -447,8 +449,9 @@
   "slug": "ucla-s-the-promise-institute-for-human-rights-eu",
   "url": "https://promiseinstitute.law.ucla.edu/",
   "note": "Not search-verified - please check",
-  "logo": null,
-  "dark": false
+  "logo": "ucla-s-the-promise-institute-for-human-rights-eu.png",
+  "dark": false,
+  "src": "https://promiseinstitute.law.ucla.edu/wp-content/themes/promise-wp-theme/assets/images/promise-logo-black.svg"
  },
  {
   "name": "UNDP",
