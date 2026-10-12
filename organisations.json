@@ -245,8 +245,9 @@
   "slug": "international-federation-of-library-associations",
   "url": "https://www.ifla.org/",
   "note": "Not search-verified - please check",
-  "logo": null,
-  "dark": false
+  "logo": "international-federation-of-library-associations.png",
+  "dark": false,
+  "src": "https://commons.wikimedia.org/wiki/File:IFLA_org_logo.svg (public domain; ifla.org blocks automated fetches)"
  },
  {
   "name": "International IDEA",
