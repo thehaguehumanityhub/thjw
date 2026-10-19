@@ -418,6 +418,15 @@
   "src": "https://www.google.com/s2/favicons?domain=savethechildren.net&sz=256"
  },
  {
+  "name": "Stichting ABA ROLI Netherlands",
+  "slug": "stichting-aba-roli-netherlands",
+  "url": "https://www.americanbar.org/advocacy/global-programs/who-we-are/rule-law-initiative/",
+  "note": "Supplied by Giovanni, 19 Oct 2026 (americanbar.org blocks automated checks)",
+  "logo": "stichting-aba-roli-netherlands.png",
+  "dark": false,
+  "src": "supplied by Giovanni, 19 Oct 2026"
+ },
+ {
   "name": "The City Law School; Working Group on Gender Parity for the ICJ",
   "slug": "the-city-law-school-working-group-on-gender-pari",
   "url": "https://www.city.ac.uk/about/schools/law",
