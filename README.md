@@ -8,7 +8,7 @@ A self-contained, searchable logo grid for
 | File | What it is |
 |---|---|
 | `orgs-embed.html` | The embed fragment. No doctype/html/head/body; all CSS scoped to `#thjw-orgs`; data baked in. |
-| `logos/` | 45 normalised PNG logos (160px tall, ~320 KB total). |
+| `logos/` | One normalised PNG logo per organisation, named by slug. |
 | `organisations.json` | The source list with URLs, notes and which logo each row uses. Regenerate the fragment from this. |
 | `overrides.json` | Hand-edited corrections to links, names and initials. Merged over the fragment's data at load time. |
 | `logos/MISSING.md` | The exact filenames still wanted in `logos/`. |
@@ -94,7 +94,7 @@ Nothing in WordPress changes. The shortcode keeps pointing at the same URL.
 ### Rebuilding from the source list
 
 `organisations.json` is the full source list with verification notes. Change that and ask
-Claude to regenerate `orgs-embed.html` when the list itself changes, rather than for
+Claude to update `orgs-embed.html` to match (see `CLAUDE.md`) when the list itself changes, rather than for
 one-off corrections.
 
 ## How the logos were sourced
@@ -104,8 +104,7 @@ and favicon were fetched, the largest usable one kept, trimmed and resized to 16
 Nothing is hotlinked at runtime, so no visitor request goes to a third party and the grid
 does not break when a partner redesigns their site.
 
-Still needing a proper logo file from the organiser: UNDP, IFLA, Pro Bono Connect,
-UCLA Promise Institute. Eight rows have no website in the source list and render as
-initials tiles: EcoJustice, InterJust, Legitmov, International Bar Organisation,
-Omnijuris, Ministry of Justice of Cameroon, Palestinian Mission to the Netherlands,
-and Benjamin Duerr (an individual, not an organisation).
+Every organisation now has a logo (October 2026). Some came from Giovanni directly, some
+from Wikimedia Commons when the organisation's site blocks automated requests. Only the
+Ministry of Justice of Cameroon has no website link. See `CLAUDE.md` for the current state
+and the logos worth replacing if better files arrive.
