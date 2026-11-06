@@ -140,9 +140,9 @@ Pushing publishes to a public repo and CDN. Giovanni has been asking for each
 change explicitly, and that request is the go-ahead; do not push work he has
 not asked for.
 
-## Current state, as of 22 October 2026
+## Current state, as of 6 November 2026
 
-- **57 organisations, all with a logo.** `logos/MISSING.md` is empty.
+- **59 organisations, all with a logo.** `logos/MISSING.md` is empty.
 - Only the Ministry of Justice of Cameroon has no link (`minjustice.cm` did not
   respond on 12 October). Its `overrides.json` entry holds `"u": ""`.
 - Navy tiles (`d: 1`) in `overrides.json`: InterJust, Legitmov, Omnijuris.
@@ -156,7 +156,16 @@ not asked for.
   a wrong match and was replaced by **Nowhere Bookstore Netherlands**
   (`nowherenl.myshopify.com`), 12 Oct.
 - Added: Partos (7 Oct), Cordaid (8 Oct), Stichting ABA ROLI Netherlands
-  (19 Oct, links to the ABA Rule of Law Initiative page; not checkable by script).
+  (19 Oct, links to the ABA Rule of Law Initiative page; not checkable by script),
+  Climate Counsel and International Bar Association (6 Nov). The IBA logo is
+  the roundel only; its tagline was cropped off because it is unreadable at
+  card size. Neither site could be reached from the cloud session.
+- New logos now arrive in the SharePoint folder "Outstanding Logos", next to
+  Giovanni's spreadsheet under THJW 2026 > 02. Communications > Website
+  Visibility > templates to update content on the website. The Microsoft 365
+  connector can list and download it.
+- The spreadsheet's red row "International Bar Association (IBA)" is the old
+  IBO row (removed 12 Oct); the new, unfilled row at the bottom is the real IBA.
 - Benjamin Duerr (renamed from the typo "Benjamin Dewar") is an individual. His
   logo is a handwritten "dü" mark Giovanni supplied; it may be his signature.
 - Logos worth replacing if better files arrive: Omnijuris (rendered from site

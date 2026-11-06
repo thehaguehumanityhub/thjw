@@ -63,6 +63,15 @@
   "src": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJtZWRpYS9tZXRhZGVmYXVsdC1Ud2l0dGVyY2FyZC1jZWlwLnBuZyJ9"
  },
  {
+  "name": "Climate Counsel",
+  "slug": "climate-counsel",
+  "url": "https://www.climatecounsel.org/",
+  "note": "URL from participating organisations sheet, 6 Nov 2026; not checkable by script from the session",
+  "logo": "climate-counsel.png",
+  "dark": false,
+  "src": "supplied by Giovanni (SharePoint, THJW \"Outstanding Logos\" folder), 6 Nov 2026"
+ },
+ {
   "name": "Columbia Society of International Law, in partnership with the Columbia Journal of Transnational Law.",
   "slug": "columbia-society-of-international-law-in-partner",
   "url": "https://www.law.columbia.edu/",
@@ -221,6 +230,15 @@
   "note": "URL from participating organisations sheet, checked 12 Oct 2026",
   "logo": null,
   "dark": false
+ },
+ {
+  "name": "International Bar Association",
+  "slug": "international-bar-association",
+  "url": "https://www.ibanet.org/",
+  "note": "URL from participating organisations sheet, 6 Nov 2026; not checkable by script from the session",
+  "logo": "international-bar-association.png",
+  "dark": false,
+  "src": "supplied by Giovanni (SharePoint, THJW \"Outstanding Logos\" folder), 6 Nov 2026; tagline cropped off, roundel only"
  },
  {
   "name": "International Center for Transitional Justice (ICTJ)",
