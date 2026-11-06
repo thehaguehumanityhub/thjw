@@ -142,7 +142,7 @@ not asked for.
 
 ## Current state, as of 6 November 2026
 
-- **59 organisations, all with a logo.** `logos/MISSING.md` is empty.
+- **61 organisations, all with a logo.** `logos/MISSING.md` is empty.
 - Only the Ministry of Justice of Cameroon has no link (`minjustice.cm` did not
   respond on 12 October). Its `overrides.json` entry holds `"u": ""`.
 - Navy tiles (`d: 1`) in `overrides.json`: InterJust, Legitmov, Omnijuris.
@@ -157,8 +157,10 @@ not asked for.
   (`nowherenl.myshopify.com`), 12 Oct.
 - Added: Partos (7 Oct), Cordaid (8 Oct), Stichting ABA ROLI Netherlands
   (19 Oct, links to the ABA Rule of Law Initiative page; not checkable by script),
-  Climate Counsel and International Bar Association (6 Nov). The IBA logo is
-  the roundel only; its tagline was cropped off because it is unreadable at
+  Climate Counsel, International Bar Association, European Society of
+  International Law and Netherlands Institute for Multiparty Democracy (6 Nov;
+  ESIL and NIMD had been left out on 24 Sep, Giovanni asked for them now).
+  The IBA logo is the roundel only; its tagline was cropped off because it is unreadable at
   card size. Neither site could be reached from the cloud session.
 - New logos now arrive in the SharePoint folder "Outstanding Logos", next to
   Giovanni's spreadsheet under THJW 2026 > 02. Communications > Website
@@ -173,9 +175,8 @@ not asked for.
   UNDP (stacked portrait version, renders narrow), Cameroon (it is the
   ministry's CELCOM unit lockup, about 3.7:1), Partos (about 6:1 with the Dutch
   slogan "samen werkt."; Giovanni was offered a crop to the PARTOS block only).
-- European Society of International Law and Netherlands Institute for Multiparty
-  Democracy appear in Giovanni's spreadsheet but were deliberately not added
-  (24 Sep). Their logos were in `~/Downloads/logos`.
+- The NIMD wordmark's clipped "y" is in the supplied file and looks deliberate.
+  It is about 6:1, so it renders short.
 - 34 source URLs in `organisations.json` are still marked "please check".
   Every card is a public outbound link under the Hub's name, so a pass before
   the week is worthwhile.

@@ -99,6 +99,15 @@
   "src": "https://ecnl.org/profiles/ecnl/themes/ecnl_theme/logo.svg"
  },
  {
+  "name": "European Society of International Law",
+  "slug": "european-society-of-international-law",
+  "url": "https://esil-sedi.eu/",
+  "note": "URL from participating organisations sheet, 6 Nov 2026; not checkable by script from the session",
+  "logo": "european-society-of-international-law.png",
+  "dark": false,
+  "src": "supplied by Giovanni (SharePoint, THJW \"Outstanding Logos\" folder), 6 Nov 2026; navy frame cropped off, white knocked out"
+ },
+ {
   "name": "ABN AMRO",
   "slug": "abn-amro",
   "url": "https://www.abnamro.com/",
@@ -354,6 +363,15 @@
   "logo": "netherlands-helsinki-committee.png",
   "dark": false,
   "src": "https://www.nhc.nl/assets/uploads/2017/05/cropped-nhc-favicon-192x192.png"
+ },
+ {
+  "name": "Netherlands Institute for Multiparty Democracy",
+  "slug": "netherlands-institute-for-multiparty-democracy",
+  "url": "https://nimd.org/",
+  "note": "URL from participating organisations sheet, 6 Nov 2026; not checkable by script from the session",
+  "logo": "netherlands-institute-for-multiparty-democracy.png",
+  "dark": false,
+  "src": "supplied by Giovanni (SharePoint, THJW \"Outstanding Logos\" folder), 6 Nov 2026"
  },
  {
   "name": "Nowhere Bookstore Netherlands",
