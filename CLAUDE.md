@@ -160,8 +160,9 @@ not asked for.
   Climate Counsel, International Bar Association, European Society of
   International Law and Netherlands Institute for Multiparty Democracy (6 Nov;
   ESIL and NIMD had been left out on 24 Sep, Giovanni asked for them now).
-  The IBA logo is the roundel only; its tagline was cropped off because it is unreadable at
-  card size. Neither site could be reached from the cloud session.
+  The IBA logo is the roundel only; its tagline was cropped off because it is
+  unreadable at card size. None of the four sites could be reached from the
+  cloud session, so their links are unchecked.
 - New logos now arrive in the SharePoint folder "Outstanding Logos", next to
   Giovanni's spreadsheet under THJW 2026 > 02. Communications > Website
   Visibility > templates to update content on the website. The Microsoft 365
