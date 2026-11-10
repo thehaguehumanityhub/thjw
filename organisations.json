@@ -339,6 +339,15 @@
   "dark": false
  },
  {
+  "name": "Lex Populi",
+  "slug": "lex-populi",
+  "url": "https://lexpopuli.org/",
+  "note": "From Giovanni's spreadsheet; site blocks automated requests (406), please check",
+  "logo": "lex-populi.png",
+  "dark": false,
+  "src": "SharePoint: Outstanding Logos/lex_populi_logo.jpg (200 px)"
+ },
+ {
   "name": "Ministry of Justice of Cameroon",
   "slug": "ministry-of-justice-of-cameroon",
   "url": null,

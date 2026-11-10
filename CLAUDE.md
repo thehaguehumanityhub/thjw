@@ -140,9 +140,9 @@ Pushing publishes to a public repo and CDN. Giovanni has been asking for each
 change explicitly, and that request is the go-ahead; do not push work he has
 not asked for.
 
-## Current state, as of 6 November 2026
+## Current state, as of 10 November 2026
 
-- **61 organisations, all with a logo.** `logos/MISSING.md` is empty.
+- **62 organisations, all with a logo.** `logos/MISSING.md` is empty.
 - Only the Ministry of Justice of Cameroon has no link (`minjustice.cm` did not
   respond on 12 October). Its `overrides.json` entry holds `"u": ""`.
 - Navy tiles (`d: 1`) in `overrides.json`: InterJust, Legitmov, Omnijuris.
@@ -160,6 +160,8 @@ not asked for.
   Climate Counsel, International Bar Association, European Society of
   International Law and Netherlands Institute for Multiparty Democracy (6 Nov;
   ESIL and NIMD had been left out on 24 Sep, Giovanni asked for them now).
+  Lex Populi (10 Nov, logo from "Outstanding Logos", only 200 px; lexpopuli.org
+  answers automated requests with 406, so its link is unchecked).
   The IBA logo is the roundel only; its tagline was cropped off because it is
   unreadable at card size. None of the four sites could be reached from the
   cloud session, so their links are unchecked.
