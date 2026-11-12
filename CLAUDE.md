@@ -146,7 +146,9 @@ not asked for.
 - Only the Ministry of Justice of Cameroon has no link (`minjustice.cm` did not
   respond on 12 October). Its `overrides.json` entry holds `"u": ""`.
 - Navy tiles (`d: 1`) in `overrides.json`: InterJust, Legitmov, Omnijuris.
-  Pathfinders is forced to `d: 0` (its new logo is navy on white). Other light
+  Pathfinders is forced to `d: 0` (its new logo is navy on white).
+  International Nuremberg Principles Academy is forced to `d: 0` too: its new logo
+  (12 Nov, supplied by Giovanni) is blue on white, the old one was white. Other light
   logos carry `d` in `ORGS` from the original build.
 - Display-name overrides: Gemeente Den Haag shows as **City of The Hague**.
   FIBGAR, Columbia Society, Pathfinders and City Law School are shortened in
